@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppSettings_Read_from_Library</id>
+    <version>1.0.0</version>
+    <title>AppSettings_Read_from_Library</title>
+    <authors>Jorge Chaves</authors>
+    <developmentDependency>true</developmentDependency>
+    <description>Read AppSettings.json of asp.net core MVC proyect from other library.</description>
+    <copyright>jojodev</copyright>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/bin/Debug/net5.0/AppSettingsFromLibrary.dll" target="lib/net5.0/AppSettingsFromLibrary.dll" />
+  </files>
+</package>

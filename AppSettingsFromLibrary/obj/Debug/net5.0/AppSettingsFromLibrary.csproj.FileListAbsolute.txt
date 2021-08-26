@@ -1,0 +1,12 @@
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/bin/Debug/net5.0/AppSettingsFromLibrary.deps.json
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/bin/Debug/net5.0/AppSettingsFromLibrary.dll
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/bin/Debug/net5.0/ref/AppSettingsFromLibrary.dll
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/bin/Debug/net5.0/AppSettingsFromLibrary.pdb
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.csproj.AssemblyReference.cache
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.AssemblyInfoInputs.cache
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.AssemblyInfo.cs
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.csproj.CoreCompileInputs.cache
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.dll
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/ref/AppSettingsFromLibrary.dll
+/Users/jchaves047/Projects/AppSettingsFromLibrary/AppSettingsFromLibrary/obj/Debug/net5.0/AppSettingsFromLibrary.pdb
